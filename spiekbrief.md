@@ -9,11 +9,11 @@ Spiekbrief: Push: Je stuurt je lokale wijzigingen naar de online repository.
 
 Spiekbrief: Pull: Je haalt de nieuwste wijzigingen van de online repository op naar je eigen computer.
 
-## 2.
+## 2. een goed commit bericht
 
 Spiekbrief: "Voeg puntentelling toe aan het Qwixx-spel."(1) "Code aangepast."(2):
  Het goede commitbericht beschrijft duidelijk welke aanpassing er is gebeurd. Het slechte commitbericht is te algemeen en vertelt niet wat er precies veranderd is. Daardoor is het bij het goede bericht veel gemakkelijker om later wijzigingen terug te vinden en te begrijpen.
 
-## 3.
+## 3. Gitignore
 
 Een .gitignore-bestand zorgt ervoor dat Git bepaalde bestanden en mappen niet bijhoudt in je repository.
