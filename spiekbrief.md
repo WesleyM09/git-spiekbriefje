@@ -22,3 +22,6 @@ Spiekbrief: Een .gitignore-bestand zorgt ervoor dat Git bepaalde bestanden en ma
 
 Spiekbrief: Een pull neemt gewijzigde elementen die niet in VS Code zijn aangepast op en slaat ze op. Hierdoor kun je altijd een overzicht blijven houden hoe alles verloopt zonder een fout op te lopen.
 
+## 5. Terugdraaien
+
+De historiek laat je zien wat je als laatste hebt opgeslagen, dus als je elke keer iets opslaat en upload, dan kan je nog altijd terug als je iets fout of per ongeluk weg hebt gedaan.
