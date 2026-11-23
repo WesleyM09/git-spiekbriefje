@@ -16,4 +16,9 @@ Spiekbrief: "Voeg puntentelling toe aan het Qwixx-spel."(1) "Code aangepast."(2)
 
 ## 3. Gitignore
 
-Een .gitignore-bestand zorgt ervoor dat Git bepaalde bestanden en mappen niet bijhoudt in je repository.
+Spiekbrief: Een .gitignore-bestand zorgt ervoor dat Git bepaalde bestanden en mappen niet bijhoudt in je repository.
+
+## 4. Pull
+
+Spiekbrief: Een pull neemt gewijzigde elementen die niet in VS Code zijn aangepast op en slaat ze op. Hierdoor kun je altijd een overzicht blijven houden hoe alles verloopt zonder een fout op te lopen.
+
