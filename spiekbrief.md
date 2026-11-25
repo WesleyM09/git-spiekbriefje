@@ -35,3 +35,4 @@ De branch main bevat de stabiele en werkende versie van je project. Nieuwe aanpa
 Een pull request is een aanvraag om de wijzigingen van een branch samen te voegen met een andere branch, meestal main.
 
 ## 7. 
+
