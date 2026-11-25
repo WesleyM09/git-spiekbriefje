@@ -34,5 +34,6 @@ De branch main bevat de stabiele en werkende versie van je project. Nieuwe aanpa
 
 Een pull request is een aanvraag om de wijzigingen van een branch samen te voegen met een andere branch, meestal main.
 
-## 7. 
+## 7. Mijn conflict
 
+De titel was in bijde gevallen aangepast, waardoor het botste. Ik heb mijn titel dat ik lokaal had gewijzigd gehouden, en het conflict werd opgelost. Die titel leek me beter dan die wat ik op de online versie had gemaakt.
