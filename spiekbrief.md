@@ -25,3 +25,11 @@ Spiekbrief: Een pull neemt gewijzigde elementen die niet in VS Code zijn aangepa
 ## 5. Terugdraaien
 
 De historiek laat je zien wat je als laatste hebt opgeslagen, dus als je elke keer iets opslaat en upload, dan kan je nog altijd terug als je iets fout of per ongeluk weg hebt gedaan.
+
+## 6. Branches en pull requests
+
+Een branch is een aparte versie van je repository waarin je nieuwe aanpassingen kunt maken zonder de hoofdversie te veranderen. Zo kun je veilig werken aan nieuwe functies of verbeteringen.
+
+De branch main bevat de stabiele en werkende versie van je project. Nieuwe aanpassingen worden eerst op een aparte branch gemaakt en getest. Pas wanneer alles goed werkt, worden de wijzigingen samengevoegd met main.
+
+Een pull request is een aanvraag om de wijzigingen van een branch samen te voegen met een andere branch, meestal main.
