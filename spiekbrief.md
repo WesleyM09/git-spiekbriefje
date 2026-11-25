@@ -1,4 +1,4 @@
-# Spiekbrief Git en GitHub
+# Spiekbrief Git en GitHub, versie van mijn laptop
 ## 1. Clone, commit, push en pull
 
 Spiekbrief: Clone: Je maakt een lokale kopie van een project uit een online repository.
@@ -33,3 +33,5 @@ Een branch is een aparte versie van je repository waarin je nieuwe aanpassingen 
 De branch main bevat de stabiele en werkende versie van je project. Nieuwe aanpassingen worden eerst op een aparte branch gemaakt en getest. Pas wanneer alles goed werkt, worden de wijzigingen samengevoegd met main.
 
 Een pull request is een aanvraag om de wijzigingen van een branch samen te voegen met een andere branch, meestal main.
+
+## 7. 
